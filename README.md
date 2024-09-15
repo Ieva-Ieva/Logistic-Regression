@@ -1,7 +1,7 @@
 # Logistic-Regression
 Logistic Regression Analysis and Model Fitting for Predicting the 10-year Risk of Coronary Heart Disease
 
-# Predictive Modelling of the 10-year Risk of Coronary Heart Disease in Framingham Dataset
+# Predictive Modelling of the 10-year Risk of Coronary Heart Disease in Framingham Dataset 
 
 ## Introduction  
 
